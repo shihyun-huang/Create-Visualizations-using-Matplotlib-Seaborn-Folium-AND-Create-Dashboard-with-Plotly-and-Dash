@@ -1,1 +1,1 @@
-#Create Visualizations using Matplotlib Seaborn Folium AND Create Dashboard with Plotly and Dash
+Create Visualizations using Matplotlib Seaborn Folium AND Create Dashboard with Plotly and Dash
